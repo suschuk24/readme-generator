@@ -1,12 +1,12 @@
 
-# readme generator
+# Professional Readme Generator
 
 
 ## Description:
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
 
-creates a professional quality readme page for use with any application
+This is a quick and easy to use template where a user answers a series of questions related to a normal README file. Then, those inputs are placed into the templated and displayed as a professional quality README.md file!
 
 
 # Table of Contents 
@@ -21,12 +21,12 @@ creates a professional quality readme page for use with any application
 
 ## Installation:
 
-stuff and things
+download node.js. Fork in repo. Using the command line, run 
 
 
 ## Usage:
 
-answer questions, visit dist folwer afterwards to see the resulting page
+answer the questions. Then navigate to the dist folder to see the finished README.md file!
 
 
 
@@ -42,17 +42,19 @@ For more information about licenses, please visit:
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
-seth uschuk
+Seth Uschuk
 
 
 ## Tests:
 
-lots of stuff
+tested for bugs, typos, errors
 
 
 ## Technologies Used
 
-JavaScript,ES6,Node
+* JavaScript
+* ES6
+* Node
 
 
 ## Questions:
@@ -66,6 +68,6 @@ If you have any questions, please see GitHub's Guide to a Professional README, m
 - [My Github Profile](https://github.com/suschuk24)
 
 
-- [My Email](suschuk24@gmail.com)
+- [My Email](suschuk24@qgmail.com)
 
   
