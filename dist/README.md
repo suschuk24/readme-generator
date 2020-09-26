@@ -1,12 +1,12 @@
 
-# test
+# Professional readme generator
 
 
 ## Description:
 
-![License](https://img.shields.io/badge/License-MPL-2.0-blue.svg "License Badge")
+![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
 
-test
+GIVEN a command-line application that accepts user input
 
 
 # Table of Contents 
@@ -20,12 +20,12 @@ test
 
 ## Installation:
 
-more tezsts
+THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
 
 
 ## Usage:
 
-testing
+WHEN I enter my project title
 
 
 
@@ -33,7 +33,7 @@ testing
 
 
 For more information about licenses, please visit:
-[License](https://opensource.org/licenses/MPL-2.0)
+[License](https://opensource.org/licenses/MIT)
 
 
 
@@ -41,12 +41,12 @@ For more information about licenses, please visit:
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
-testing
+THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
 
 
 ## Tests:
 
-tesing
+THEN I am taken to the corresponding section of the README
 
 
 ## Questions:
