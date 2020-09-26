@@ -1,12 +1,12 @@
 
-# professional readme generator
+# Professional Readme Generator
 
 
 ## Description:
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
 
-this is a template to generate a professional readme page for combined reference with any application that you are building!
+This is a quick and easy to use template where a user answers a series of questions related to a normal README file. Then, those inputs are placed into the templated and displayed as a professional quality README.md file!
 
 
 # Table of Contents 
@@ -17,15 +17,16 @@ this is a template to generate a professional readme page for combined reference
 - [Tests](#tests)
 - [License](#license)
 - [Questions](#questions)
+- [Technologies Used](#languages)
 
 ## Installation:
 
-fork the repository, install node.js, run 'npm init' and 'npm install inquirer' in the command line
+download node.js. Fork in repo. Using the command line, run 
 
 
 ## Usage:
 
-answer the questions. Once complete, please visit the dist folder to see the readme file
+answer the questions. Then navigate to the dist folder to see the finished README.md file!
 
 
 
@@ -41,12 +42,19 @@ For more information about licenses, please visit:
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
-Seth Uschuk, forked example code from GitHub
+Seth Uschuk
 
 
 ## Tests:
 
-tested for bugs and page loading, checked for typos
+tested for bugs, typos, errors
+
+
+## Technologies Used
+
+* JavaScript
+* ES6
+* Node
 
 
 ## Questions:
@@ -60,6 +68,6 @@ If you have any questions, please see GitHub's Guide to a Professional README, m
 - [My Github Profile](https://github.com/suschuk24)
 
 
-- [My Email](suschuk24@gmail.com)
+- [My Email](suschuk24@qgmail.com)
 
   
