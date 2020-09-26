@@ -1,23 +1,30 @@
 {
   "name": "readme-generator",
   "version": "1.0.0",
-  "description": "template for a quality README file",
   "main": "index.js",
-  "dependencies": {
-    "inquirer": "^7.3.3"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seth Uschuk",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.5.2"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/suschuk24/readme-generator.git"
   },
-  "author": "Seth Uschuk",
-  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/suschuk24/readme-generator/issues"
+    "url": "https://github.com/suschuk24/readme-generator.issues"
   },
-  "homepage": "https://github.com/suschuk24/readme-generator#readme"
+  "homepage": "https://github.com/suschuk24/readme-generator",
+  "description": "generates a readme file for your project",
+  "keywords": [
+    "node",
+    "readme",
+    "javaScript"
+  ],
+  "devDependencies": {
+    "prettier": "2.1.2"
+  }
 }
