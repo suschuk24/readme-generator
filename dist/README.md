@@ -1,12 +1,12 @@
 
-# Professional readme generator
+# test
 
 
 ## Description:
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
 
-GIVEN a command-line application that accepts user input
+test
 
 
 # Table of Contents 
@@ -20,12 +20,12 @@ GIVEN a command-line application that accepts user input
 
 ## Installation:
 
-THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+test
 
 
 ## Usage:
 
-WHEN I enter my project title
+test
 
 
 
@@ -41,12 +41,12 @@ For more information about licenses, please visit:
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
+
 
 
 ## Tests:
 
-THEN I am taken to the corresponding section of the README
+
 
 
 ## Questions:

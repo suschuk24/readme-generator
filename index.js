@@ -51,13 +51,13 @@ const questions = [
     {
         type: 'input',
         name: 'tests',
-        message: 'please enter testing that you have compelted on this application'
+        message: 'please enter testing that you have completed on this application'
     },
     {
         type: 'list',
         name: 'license',
         message: "Choose your licences used",
-        choices: ['MIT', 'MPL-2.0', 'ISC', 'Apache-2.0','None']
+        choices: ['MIT', 'ISC', 'Apache-2.0', 'MPL-2.0']
     },
     {
         type: 'input',
