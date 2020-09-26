@@ -1,12 +1,12 @@
 
-# test
+# professional readme generator
 
 
 ## Description:
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
 
-test
+this is a template to gfenerate a professional reademe page to be combined with any application that you are working on!
 
 
 # Table of Contents 
@@ -20,12 +20,12 @@ test
 
 ## Installation:
 
-test
+fork this repo, install node.js, run npm init and npm install inquirer in the command line
 
 
 ## Usage:
 
-test
+answer the questions displayed. Once complete, navigate to the dist folder to see the finished md file!
 
 
 
@@ -41,12 +41,12 @@ For more information about licenses, please visit:
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
-
+Seth Uschuk
 
 
 ## Tests:
 
-
+tested for bugs, checked for typos
 
 
 ## Questions:

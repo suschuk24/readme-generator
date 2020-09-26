@@ -45,9 +45,9 @@ If you have any questions, please see GitHub's Guide to a Professional README, m
 
 -[GutHub's Guide to a Professional README](https://github.com/coding-boot-camp/potential-enigma/blob/master/readme-guide.md)\n
 
-- [Github Profile](https://github.com/${userResponse.github})\n
+- [My Github Profile](https://github.com/${userResponse.github})\n
 
-- [Email](${userResponse.email})\n
+- [My Email](${userResponse.email})\n
   `;
 }
 

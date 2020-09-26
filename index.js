@@ -4,54 +4,52 @@ const fs = require('fs');
 
 const generateMarkdown = require('./utils/generateMarkdown.js');
 
+// validation function for required inpus by user
+const validateFcn = input => {
+    if(input) {
+        return true;
+    } else {
+        console.log('Please enter valid text, you are entering the appropriate content for the md file!');
+    };
+}
+
 // array of questions for user
 const questions = [
     {
         type: 'input',
         name: 'title',
-        message: 'What is the title of your project?'
+        message: 'What is the title of your project? (Required)',
+        validate: validateFcn
     },
     {
         type: 'input',
         name: 'description',
-        message: 'Enter your project description'
+        message: 'Enter your project description(Required)',
+        validate: validateFcn
     },
-    // {
-    //     type: 'checkbox',
-    //     name: 'contents',   
-    //     message: 'Choose which elements to include in Table of Contents',
-    //     choices: [
-    //         'Project Title',
-    //         'Description/Overview',
-    //         'Table of Contents',
-    //         'Installation Instructions',
-    //         'Usage',
-    //         'License',
-    //         'Contributing',
-    //         'Tests',
-    //         'Questions',
-    //         'Technologies Used'
-    //         ] 
-    // },
     {
         type: 'input',
         name: 'installation',
-        message: 'Enter your installation instructions'
+        message: 'Enter your installation instructions (Required)',
+        validate: validateFcn
     },
     {
         type: 'input',
         name: 'usage',
-        messgae: 'Enter your usage parameters here, provide example screenshots to page if no instructions to give'
+        messgae: 'Enter your usage parameters here, provide example screenshots to page if no instructions to give (Required)',
+        validate: validateFcn
     }, 
     {
         type: 'input',
         name: 'contributions',
-        message: 'please enter the list of contributers and collaborators here'
+        message: 'please enter the list of contributers and collaborators here (Required)',
+        validate: validateFcn
     },
     {
         type: 'input',
         name: 'tests',
-        message: 'please enter testing that you have completed on this application'
+        message: 'please enter testing that you have completed on this application (Required)',
+        validate: validateFcn
     },
     {
         type: 'list',
@@ -62,7 +60,8 @@ const questions = [
     {
         type: 'input',
         name: 'github',
-        message: 'Please enter your GitHub username'
+        message: 'Please enter your GitHub username (Required)',
+        validate: validateFcn
     },
     {
         type: 'input',
