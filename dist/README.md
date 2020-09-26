@@ -1,13 +1,11 @@
 
 # Professional Readme Generator
 
-
 ## Description:
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
 
 This is a quick and easy to use template where a user answers a series of questions related to a normal README file. Then, those inputs are placed into the templated and displayed as a professional quality README.md file!
-
 
 # Table of Contents 
 
@@ -21,22 +19,22 @@ This is a quick and easy to use template where a user answers a series of questi
 
 ## Installation:
 
-download node.js. Fork in repo. Using the command line, run 
+* Download node.js 
+* Fork in this repo
+* Using the command line, run 'npm init' and 'npm install inquirer' 
+* using the command line, run 'node index.js'
 
 
 ## Usage:
 
-answer the questions. Then navigate to the dist folder to see the finished README.md file!
-
-
+* Answer the questions that are prompted by the command line.
+* Once all questions have been answered, visit the dist folder
+* Inside the dist folder, you will see the finished README.md file!
 
 ## License:
 
-
 For more information about licenses, please visit:
 [License](https://opensource.org/licenses/MIT)
-
-
 
 ## Contributing:
 
@@ -44,11 +42,9 @@ For more information about licenses, please visit:
 
 Seth Uschuk
 
-
 ## Tests:
 
 tested for bugs, typos, errors
-
 
 ## Technologies Used
 
@@ -56,9 +52,7 @@ tested for bugs, typos, errors
 * ES6
 * Node
 
-
 ## Questions:
-
 
 If you have any questions, please see GitHub's Guide to a Professional README, my GitHub Page, or feel free to reach out by email:
 
