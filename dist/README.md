@@ -1,12 +1,12 @@
 
-# professional readme generator
+# readme generator
 
 
 ## Description:
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
 
-this is a template to generate a professional readme page for combined reference with any application that you are building!
+creates a professional quality readme page for use with any application
 
 
 # Table of Contents 
@@ -17,15 +17,16 @@ this is a template to generate a professional readme page for combined reference
 - [Tests](#tests)
 - [License](#license)
 - [Questions](#questions)
+- [Technologies Used](#languages)
 
 ## Installation:
 
-fork the repository, install node.js, run 'npm init' and 'npm install inquirer' in the command line
+stuff and things
 
 
 ## Usage:
 
-answer the questions. Once complete, please visit the dist folder to see the readme file
+answer questions, visit dist folwer afterwards to see the resulting page
 
 
 
@@ -41,12 +42,17 @@ For more information about licenses, please visit:
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
-Seth Uschuk, forked example code from GitHub
+seth uschuk
 
 
 ## Tests:
 
-tested for bugs and page loading, checked for typos
+lots of stuff
+
+
+## Technologies Used
+
+JavaScript,ES6,Node
 
 
 ## Questions:
@@ -54,7 +60,7 @@ tested for bugs and page loading, checked for typos
 
 If you have any questions, please see GitHub's Guide to a Professional README, my GitHub Page, or feel free to reach out by email:
 
--[GutHub's Guide to a Professional README](https://github.com/coding-boot-camp/potential-enigma/blob/master/readme-guide.md)
+-[GitHub's Guide to a Professional README](https://github.com/coding-boot-camp/potential-enigma/blob/master/readme-guide.md)
 
 
 - [My Github Profile](https://github.com/suschuk24)
